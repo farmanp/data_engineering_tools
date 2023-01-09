@@ -5,7 +5,7 @@ This is meant to serve as reference for folks to try and use data engineering to
 
 | Functionality | Description | Open Source | Enterprise/Cloud Service |
 | --- | --- | --- | --- |
-| **Data ingestion** | The process of importing data from external sources into a data storage system. | Apache Nifi, Apache Flume | AWS Glue, Azure Data Factory, Meltano, Airbyte |
+| **Data ingestion** | The process of importing data from external sources into a data storage system. | Apache Nifi, Apache Flume, Meltano, Airbyte | AWS Glue, Azure Data Factory, Meltano, Airbyte |
 | **Data transformation** | The process of cleaning, normalizing, and converting data into a format suitable for analysis. | Apache Beam, Apache Spark, dbt | AWS Glue, Azure Databricks, dbt Enterprise |
 | **Data storage** | The process of storing data in a structured or unstructured manner, often in a distributed system. | Apache Hadoop (HDFS), Apache Cassandra | AWS S3, Azure Blob Storage |
 | **Data processing** | The process of executing computations on data, such as aggregations, filtering, and machine learning algorithms. | Apache Flink, Apache Spark | AWS EMR, Azure HDInsight |
