@@ -11,7 +11,7 @@ This is meant to serve as reference for folks to try and use data engineering to
 | **Data processing** | The process of executing computations on data, such as aggregations, filtering, and machine learning algorithms. | Apache Flink, Apache Spark | AWS EMR, Azure HDInsight |
 | **Data visualization** | The process of creating visual representations of data, such as charts, graphs, and maps. | Apache Superset | Tableau, Google Data Studio |
 | **Data warehousing** | The process of storing and organizing data in a central location for reporting and analysis. | Apache Hive, Apache Druid | AWS Redshift, Azure Synapse Analytics, Google BigQuery |
-| **Data governance** | The process of managing and governing data within an organization, including security, privacy, and compliance. | AApache Ranger, Apache Atlas | AWS Glue, Azure Purview, Google Cloud Datapolicy Manager |
+| **Data governance** | The process of managing and governing data within an organization, including security, privacy, and compliance. | Apache Ranger, Apache Atlas | AWS Glue, Azure Purview, Google Cloud Datapolicy Manager |
 | **Data lineage** | The process of tracking the origin and movement of data within an organization. | Apache Atlas, Apache Falcon | AWS Glue, Azure Purview, Google Cloud Datapolicy Manager |
 | **Data quality** | The process of ensuring that data is accurate, complete, and consistent. | Apache DataFu, Talend | Talend, Informatica, Google Cloud Data Quality Services |
 | **Data catalog** | A system for organizing and storing metadata about data assets within an organization. | Apache Hive Metastore, Apache Atlas | AWS Glue, Azure Purview, Google Cloud Datapolicy Manager|
