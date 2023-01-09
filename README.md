@@ -3,3 +3,10 @@ A repo catalog of data engineering tools comparing with cloud, enterprise, and o
 
 This is meant to serve as reference for folks to try and use data engineering tools and frameworks without relying on cloud computing resources and servces. Data engineering is a challenging field to get into due to the limitations you have of working in data before getting work experience in data. My hopen is to give you the resources you need, starting with listing out the tools that you can try on your own. They are basically the same throughout! 
 
+| Functionality | Description | Open Source | Enterprise/Cloud Service |
+| --- | --- | --- | --- |
+| **Data ingestion** | The process of importing data from external sources into a data storage system. | Apache Nifi, Apache Flume | AWS Glue, Azure Data Factory |
+| **Data transformation** | The process of cleaning, normalizing, and converting data into a format suitable for analysis. | Apache Beam, Apache Spark | AWS Glue, Azure Databricks |
+| **Data storage** | The process of storing data in a structured or unstructured manner, often in a distributed system. | Apache Hadoop (HDFS), Apache Cassandra | AWS S3, Azure Blob Storage |
+| **Data processing** | The process of executing computations on data, such as aggregations, filtering, and machine learning algorithms. | Apache Flink, Apache Spark | AWS EMR, Azure HDInsight |
+| **Data visualization** | The process of creating visual representations of data, such as charts, graphs, and maps. | Apache Superset, Tableau | Tableau, Google Data Studio |
